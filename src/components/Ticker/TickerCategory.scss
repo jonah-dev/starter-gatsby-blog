@@ -1,0 +1,7 @@
+.TickerCategory {
+    overflow: hidden;
+    max-width: 200px;
+    &-value {
+        max-width: inherit;
+    }
+}
